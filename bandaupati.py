@@ -1,4 +1,4 @@
-__author__ = 'edmyz'
+__author__ = 'Edita'
 print "labas :)"
 atsakymas = raw_input ('ivesk atsakyma: ')
 print atsakymas
